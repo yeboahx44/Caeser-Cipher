@@ -1,2 +1,2 @@
 # Caeser-Cipher
-The code implements a Caesar Cipher, a basic encryption technique where each letter in the plaintext is shifted by a certain number of positions in the alphabet. The user can choose whether to encode (encrypt) or decode (decrypt) a message by specifying a shift value.
+This Python program implements a Caesar Cipher with a simple Graphical User Interface (GUI) using the Tkinter library. It allows users to either encode or decode a message by shifting the letters of the alphabet by a specified amount. Non-alphabetic characters (e.g., spaces, punctuation) are preserved in the original form, meaning they are not modified by the cipher. The program displays the encoded or decoded message based on user input.
